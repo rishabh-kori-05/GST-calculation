@@ -256,4 +256,5 @@ git push -u origin main
 
 ## License
 
-[MIT](LICENSE) © Your Name
+[MIT](LICENSE) © Rishabh Kori
+
